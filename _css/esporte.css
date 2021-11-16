@@ -1,0 +1,46 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+header{
+    margin: 0;
+    padding: 0;
+    background-color: lightgreen;
+    height: 100px;
+}
+.Logo{
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  text-decoration: none;  
+  color:purple;
+  position: absolute;
+  margin-left: 30px;
+  margin-top: 30px;
+  
+  font-size: 30px;
+  transition: 00.4s;
+}
+
+.logo:hover{
+background-color: tomato;    
+}
+
+body{
+    background-color: #b399b4;
+}
+
+.navbar ul li{
+list-style: none;
+margin: 20px;
+float: right;
+;
+}
+.navbar ul li{
+    float: right;
+}
+
+.navbar ul li a{
+    display: block;
+    margin-right: 25px;
+}
+
